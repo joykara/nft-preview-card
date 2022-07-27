@@ -67,8 +67,6 @@ ul li img{
     cursor: pointer;
 }
 .image div img{
-    height: 30px;
-    width:30px;
     position: absolute;
     left: 40%;
     top: 40%;
