@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://joykara.github.io/nft-preview-card/)
+- Solution URL: (https://github.com/joykara/nft-preview-card)
+- Live Site URL: (https://joykara.github.io/nft-preview-card/)
 
 ## My process
 
@@ -76,6 +76,6 @@ The areas I want to continue focusing on in future projects include:
 
 ## Author
 
-- Website - [Joy Mwende Karani](https://..........)
+- Website - [Joy Mwende Karani](https://joykara.github.io/nft-preview-card/)
 - Frontend Mentor - [@joykara](https://www.frontendmentor.io/profile/joykara)
 
